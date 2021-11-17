@@ -1,5 +1,5 @@
 """
-34.The program that deletes the most repeating element in the list?
+The program that deletes the most repeating element in the list?
 
 Listedeki en çok tekrar eden öğeyi silen program?
 """

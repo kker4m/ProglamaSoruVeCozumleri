@@ -1,5 +1,5 @@
 """
-43.Delete punctuation marks in entered text
+Delete punctuation marks in entered text
 
 Girilen metindeki noktalama işaretlerini sil
 """

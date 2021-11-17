@@ -1,5 +1,5 @@
 """
-42.Word or letter extraction program from the given sentence
+Word or letter extraction program from the given sentence
 
 Verilen cümleden kelime veya harf çıkarma programı
 """

@@ -5,7 +5,9 @@ Created on Wed Nov 17 16:07:48 2021
 @author: mrtke
 """
 
-"""34.Number guessing game 
+"""
+Number guessing game 
+
 Sayı tahmin oyunu
 """
 

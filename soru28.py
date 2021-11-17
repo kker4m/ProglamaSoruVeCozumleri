@@ -1,5 +1,5 @@
 """
-41.The program that adds the LINK symbol before and after the searched word in the entered text?
+The program that adds the LINK symbol before and after the searched word in the entered text?
 
 Girilen metinde aranan kelimenin önüne ve arkasına tırnak sembolünü ekleyen program?
 """

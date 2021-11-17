@@ -1,5 +1,6 @@
 """
-38.Program that finds whether the entered text is capitalized or not?
+Program that finds whether the entered text is capitalized or not?
+
 Girilen metnin büyük harf olup olmadığını bulan program?
 """
 [a,b]=[0,0]

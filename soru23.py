@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-36.Program to find the number of repetitions of each element? 
+Program to find the number of repetitions of each element? 
+
 Her elemanın tekrar sayısını bulan program?
 """
 

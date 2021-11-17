@@ -5,9 +5,11 @@ Created on Wed Nov 17 16:06:24 2021
 @author: mrtke
 """
 
-"""33.Program to calculate the biggest common divisor of two numbers
+"""
+Program to calculate the biggest common divisor of two numbers
 
- İki sayının en büyük ortak bölenini hesaplayan program ( EBOB )"""
+İki sayının en büyük ortak bölenini hesaplayan program ( EBOB )
+"""
  
  
 nmb1=int(input("Please enter number one.. : "))

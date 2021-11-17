@@ -1,5 +1,5 @@
 """
-40.Program that finds the number of words, numbers and characters in the text entered?
+Program that finds the number of words, numbers and characters in the text entered?
 
 Girilen metindeki kelime, sayı ve karakter sayısını bulan program?
 """

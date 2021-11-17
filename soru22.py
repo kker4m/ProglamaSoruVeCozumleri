@@ -6,7 +6,7 @@ Created on Wed Nov 17 16:08:22 2021
 """
 
 """
-35.The program that sorts the elements?
+The program that sorts the elements?
 
 Öğeleri sıralayan program?
 """

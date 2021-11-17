@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-39.k of the text entered. with the character r. Write a program that copies between characters?
+k of the text entered. with the character r. Write a program that copies between characters?
 
 Girilen metnin k ile r karakterleri arasında kopyalama yapan bir program yazınız
 """

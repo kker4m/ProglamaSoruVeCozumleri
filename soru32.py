@@ -1,5 +1,5 @@
 """
-32.Program to list first N prime number? 
+Program to list first N prime number? 
 
 İlk N asal sayıyı listeleyen program?
 """

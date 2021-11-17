@@ -5,8 +5,11 @@ Created on Wed Nov 17 16:05:05 2021
 @author: mrtke
 """
 
-"""32.Find LMC ( EKOK )  """
-"""school"""
+"""
+Find LMC ( EKOK ) 
+EKOK'u bulunuz
+"""
+
 nmb=int(input("Please enter a number..: "))
 [x,b]=[2,1]
 elist=[]

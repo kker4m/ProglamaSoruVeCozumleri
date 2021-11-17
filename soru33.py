@@ -1,5 +1,5 @@
 """
-33.Find whether the entered date is appropriate or not?
+Find whether the entered date is appropriate or not?
 
 Girilen tarihin uygun olup olmadığını bulun.
 """
