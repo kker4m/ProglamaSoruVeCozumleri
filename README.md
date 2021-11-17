@@ -5,7 +5,7 @@ Soruların içeriğinin ingilizce olma sebebi yeni bilgisayar mühendislerini ve
 ve tüm bu soruları tüm dünya ile paylaşarak daha fazla insana ulaşmaktır. Metotların az kullanılmasının sebebi, kolay yola kaçmamak, programlamanın asıl mantığını
 kavramak, vize ve finallere girmeden önce pratik yapmayı sağlamaktır.
 
-**EN**
+**EN:**
 There is a 34 Python practice program for who new to programming and want to practice programming and python. Reason for underuse of methods is avoiding taking the easy way out and practicing for schoolwork 
 
 #### SORU 1 / PRACTICE 1 
