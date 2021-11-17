@@ -14,7 +14,7 @@ There is a 34 Python practice program for who new to programming and want to pra
 
 Employee salary and number of children are given. Calculate the new salary by increasing 5% if the number of children is one, 10% if two, and 15% if there are three or more? 
 
-#####SORU 2 / PRACTICE 2
+##### SORU 2 / PRACTICE 2
 
 Girilen 5 sayının ortalamasını bulan program?
 
@@ -26,13 +26,13 @@ Girilen 5 sayının standart sapmasını bulan program?
 
 Program to find standard deviation of 5 entered numbers?
 
-#####SORU 4 / PRACTICE 4
+#### SORU 4 / PRACTICE 4
 
 Girilen numaranın listede olup olmadığını bulan program?
 
 Program to find if the entered number is in the list?
 
-#####SORU 5 / PRACTICE 5 
+#### SORU 5 / PRACTICE 5 
 
 Girilen n ve k değerlerine göre k + 2k + 3k + ...+nk hesaplayan program?
 
@@ -44,7 +44,7 @@ Program to reverse an entered 3-digit number? (573 ==> 375)
 
 Girilen 3 basamaklı bir sayıyı tersine çevirmek için program? (573 ==> 375)
 
-#####SORU 7 / PRACTICE 7 
+#### SORU 7 / PRACTICE 7 
 
 Print after receiving information from the user how many Fibonacci numbers to generate
 
@@ -56,7 +56,7 @@ Program to find prime factors of a given number?
 
 Verilen bir sayının asal çarpanlarını bulan program?
 
-#####SORU 9 / PRACTICE 9 
+#### SORU 9 / PRACTICE 9 
 
 Keep multiplying until the product of the place values of the entered number drops to a single digit, and the program that writes the resulting products?
 
