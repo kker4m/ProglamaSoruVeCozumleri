@@ -1,4 +1,4 @@
-# Proglama_1_Sorulari_Ve_Cozumleri
+# ProglamaSorulariVeCozumleri
 **TR:**
 İnönü Üniversitesi Bilgisayar Mühendisliği 2021-2022 Yılı M. Fatih Talu hocamızın da izni ile pdf'lerinde işlediği neredeyse tüm problemlerin çözümü.
 Soruların içeriğinin ingilizce olma sebebi yeni bilgisayar mühendislerini ve bilgisayar mühendisi adaylarının ingilizce ile aralarında ki pratiği geliştirmeleri,
